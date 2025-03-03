@@ -2,7 +2,9 @@
 
 AIDA AUTO TASK BOT
 
-register
+register :
+https://my.aidapp.com?refCode=9rFHPA6BAokSIXf
+
 Auto Complete all task exclude Invite Friends
 Support Multi Accounts
 
