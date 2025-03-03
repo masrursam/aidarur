@@ -15,6 +15,7 @@ AIDA AUTO TASK BOT
 1. Clone Repository
 git clone https://github.com/masrursam/aidarur.git
 pip3 install -r modul.txt
+npm install axios ethers fs readlin
 cd aidarur
 4. Instal Dependency
 npm install axios && npm install https-proxy-agent
