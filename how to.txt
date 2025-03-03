@@ -1,0 +1,20 @@
+AIDA AUTO TASK BOT
+
+Auto Complete all task exclude Invite Friends
+Support Multi Accounts
+
+
+Use Access Token :
+
+F12 - Aplication - Local Storage - Access Token
+
+
+shell
+
+npm install axios
+
+nano token.txt
+
+Run :
+
+node aida.js
